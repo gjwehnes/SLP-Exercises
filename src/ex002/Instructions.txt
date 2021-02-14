@@ -1,8 +1,0 @@
-Write a public method header on line five with the following specs:
-
- 
-Access: public
-Type: static
-Returns: a boolean
-Name: beTrue
-Parameters: none
