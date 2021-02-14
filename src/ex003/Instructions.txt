@@ -1,0 +1,11 @@
+ Write a  method header on line two with the following specs:
+
+ 
+Access: public
+Type: static
+Returns: a String
+Name: makeCapital
+Parameters: 
+a String named "name"
+
+You should not be writing code on any line other than #2

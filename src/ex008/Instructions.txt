@@ -1,0 +1,10 @@
+1. Complete the Dog.java class:
+
+Include the following class variables:
+name (type String)
+breed (type String)
+weight (type int)
+
+Write two constructors:
+The main constructor that takes in values for all instance variables
+A secondary constructor that takes in only name and weight (breed defaults to "Mutt")
