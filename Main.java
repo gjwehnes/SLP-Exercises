@@ -9,20 +9,7 @@ public class Main {
 
   public static void main(String[] args) {
 
-    runTest(ex001.Test001.class);
-    runTest(ex002.Test002.class);
-    runTest(ex003.Test003.class);
-    runTest(ex004.Test004.class);
-    runTest(ex005.Test005.class);
-    runTest(ex006.StudentTest.class);
-    runTest(ex007.BicycleTest.class);
-    runTest(ex008.DogTest.class);
-    runTest(ex009.CarTest.class);
-    runTest(ex010.StoreProductTest.class);
-    runTest(ex011.StockTest.class);
-    runTest(ex012.PersonTest.class);
-    runTest(ex013.InchWormTest.class);
-    runTest(ex014.StringFormatterTest.class);
+    runTest(ex015.Divider.class);
 
     System.out.println("*** TOTAL ***");
     System.out.println(String.format("[%10d tests started         ]", totalRunCount));
