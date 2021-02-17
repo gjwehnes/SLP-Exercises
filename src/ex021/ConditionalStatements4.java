@@ -13,15 +13,12 @@ public class ConditionalStatements4 {
 
 	public static String makeAdjective(String verb) {
 		if (verb.substring(verb.length() - 2).equals("le")) {
-			System.out.println("-le");
 			return verb.substring(0, verb.length() - 2) + "ly";
 		}
 		else if (verb.substring(verb.length() - 1).equals("y")) {
-			System.out.println("-y");
 			return verb.substring(0, verb.length() - 1) + "ily";
 		}
 		else {
-			System.out.println("normal");
 			return verb + "ly";
 		}
 	}
