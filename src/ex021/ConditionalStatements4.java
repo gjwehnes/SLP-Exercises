@@ -22,5 +22,4 @@ public class ConditionalStatements4 {
 			return verb + "ly";
 		}
 	}
-	
 }
