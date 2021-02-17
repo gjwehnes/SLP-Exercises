@@ -7,8 +7,4 @@ package ex017;
 */
 public class Maximum{
 
-	public static int maximumOfThree(int valueA, int valueB, int valueC) {
-		return Math.max(Math.max(valueA, valueB), valueC);
-	}
-	
 }

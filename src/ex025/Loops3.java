@@ -8,17 +8,5 @@ package ex025;
 */
 public class Loops3 {
 
-	public static String stripConsonants(String input) {
-		String output = "";
-		
-		for (int i = 0; i < input.length(); i++) {
-			char n = input.charAt(i);
-			if (n == 'a' || n == 'e' || n == 'i' || n == 'o' || n == 'u' || n == 'y') {
-				output += n;
-			}
-		}
-		return output;
-	}
-	
 }
 	

@@ -11,15 +11,4 @@ package ex021;
 */
 public class ConditionalStatements4 {
 
-	public static String makeAdjective(String verb) {
-		if (verb.substring(verb.length() - 2).equals("le")) {
-			return verb.substring(0, verb.length() - 2) + "ly";
-		}
-		else if (verb.substring(verb.length() - 1).equals("y")) {
-			return verb.substring(0, verb.length() - 1) + "ily";
-		}
-		else {
-			return verb + "ly";
-		}
-	}
 }

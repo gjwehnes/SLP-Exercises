@@ -5,13 +5,5 @@ package ex024;
 */
 public class Loops2 {
 
-	public static String getRange(int start, int end, int step) {
-		String output = "";
-		for (int i = start; i < end; i+=step) {
-			output += "(" + Integer.toString(i) + ")";
-		}
-		return output;
-	}
-	
 }
 	

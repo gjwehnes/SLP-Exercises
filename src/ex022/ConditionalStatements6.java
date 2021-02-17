@@ -7,22 +7,4 @@ package ex022;
 */
 public class ConditionalStatements6{
 
-	public static String longestWord(String wordA, String wordB, String wordC) {
-		if (wordA.length() > wordB.length()) {
-			if (wordA.length() > wordC.length()) {
-				return wordA;
-			}
-			else {
-				return wordC;
-			}
-		} else {
-			if (wordB.length() > wordC.length()) {
-				return wordB;
-			}
-			else {
-				return wordC;
-			}
-		}
-	}
-	
 }

@@ -12,24 +12,5 @@ package ex028;
 */
 public class Loops6 {
 
-	public static int investmentCalculator(double initialAmount, double percent, double targetAmount) {
-
-		int count = 0;
-
-		if (percent <= 0) {
-			return -1;
-		}
-		else if (initialAmount == 0) {
-			return -1;
-		}
-		else {
-			while (initialAmount < targetAmount) {
-				count++;
-				initialAmount *= (1 + (percent / 100.0));
-			}
-			return count;
-		}		
-	}
-	
 }
 	

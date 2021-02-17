@@ -8,15 +8,5 @@ package ex027;
 */
 public class Loops5 {
 
-	public static int getTimesDivisible(int number, int divisor) {
-		int count = 0;
-		
-		while (number / divisor >= 1) {
-			count++;
-			number /= divisor;
-		}
-		return count;
-	}
-	
 }
 	

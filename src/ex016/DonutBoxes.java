@@ -6,17 +6,4 @@ package ex016;
 */
 public class DonutBoxes {
 	
-	public static int calculateBoxes(int numberOfDonuts) {
-		return ( (numberOfDonuts + 11)/12);
-	}
-	
-	public static int calculateRemainder(int numberOfDonuts) {
-		if (numberOfDonuts%12 == 0) {
-			return 12;
-		}
-		else {
-			return (numberOfDonuts % 12);
-		}
-	}
-
 }
