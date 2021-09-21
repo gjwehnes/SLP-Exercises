@@ -9,6 +9,136 @@
       "comparison": "included",
       "timeout": 10,
       "points": 1
+    },
+    {
+      "name": "test2",
+      "setup": "",
+      "run": "gradle test --tests ex016.DonutBoxesTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test3",
+      "setup": "",
+      "run": "gradle test --tests ex017.MaximumTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test4",
+      "setup": "",
+      "run": "gradle test --tests ex018.ConditionalStatements1Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test5",
+      "setup": "",
+      "run": "gradle test --tests ex019.ConditionalStatements2Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test6",
+      "setup": "",
+      "run": "gradle test --tests ex020.ConditionalStatements3Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test7",
+      "setup": "",
+      "run": "gradle test --tests ex021.ConditionalStatements4Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test8",
+      "setup": "",
+      "run": "gradle test --tests ex022.ConditionalStatements6Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test9",
+      "setup": "",
+      "run": "gradle test --tests ex023.Loops1Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test10",
+      "setup": "",
+      "run": "gradle test --tests ex024.Loops2Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test11",
+      "setup": "",
+      "run": "gradle test --tests ex025.Loops3Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test12",
+      "setup": "",
+      "run": "gradle test --tests ex026.Loops4Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test13",
+      "setup": "",
+      "run": "gradle test --tests ex027.Loops5Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test14",
+      "setup": "",
+      "run": "gradle test --tests ex028.Loops6Test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
     }
   ]
 }
