@@ -1,0 +1,1 @@
+Write method isNumberEven that calculates whether an integer is even or odd:
