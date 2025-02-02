@@ -1,1 +1,3 @@
-Write method isNumberEven that calculates whether an integer is even or odd:
+### ConditionalStatements1
+
+Write method isNumberEven that calculates whether an integer passed in as a parameter is even or odd
