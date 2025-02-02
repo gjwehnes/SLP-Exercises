@@ -9,6 +9,8 @@ public class Loops1Test {
 		assertEquals(15, Loops1.getSum(5));
 		assertEquals(55, Loops1.getSum(10));
 		assertEquals(1, Loops1.getSum(1));
+		assertEquals(0, Loops1.getSum(0));
+		assertEquals(0, Loops1.getSum(-1));
 	}
 
 }
