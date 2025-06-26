@@ -1,4 +1,5 @@
-### Divider
+### Ex0015
+#### Divider
 
 Create a method called divide that will take two integers and perform floating-point division.
 The return value will be a double
